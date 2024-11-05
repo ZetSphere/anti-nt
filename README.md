@@ -8,7 +8,7 @@ Buat Kalian yang ingin Menembak Gebetan , Kalian bisa menggunakan Anti-NT ini. A
 
    - Clone repositori ini ke perangkatmu:
      ```bash
-     git clone https://github.com/ZetSphere/ANTI-NT.git
+     https://github.com/ZetSphere/anti-nt.git
      ```
    - Buka file `index.html` di browser untuk melihat hasilnya.
 
