@@ -1,4 +1,4 @@
-# ANTI-NT: Bro Dijamin Diterima 😁👍
+# ANTI-NT: Bro Dijamin Diterima!
 
 Buat Kalian yang ingin Menembak Gebetan , Kalian bisa menggunakan Anti-NT ini. Anti-NT ini bisa membantu Kalian 100% Pasti Diterima.
 
